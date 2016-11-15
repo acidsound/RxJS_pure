@@ -15,3 +15,6 @@ startApp = ->
 
 # boilerplate
 fun with RxJS + ☕️ https://goo.gl/rgYDGB
+
+# demo
+https://goo.gl/kfONs5
