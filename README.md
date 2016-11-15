@@ -17,4 +17,4 @@ startApp = ->
 fun with RxJS + ☕️ https://goo.gl/rgYDGB
 
 # demo
-https://goo.gl/kfONs5
+take five(interval example): https://goo.gl/kfONs5
