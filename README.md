@@ -12,3 +12,6 @@ script.onload = -> startApp()
 startApp = ->
   # make your codes in here
 ```
+
+# boilerplate
+fun with RxJS + ☕️ https://goo.gl/rgYDGB
